@@ -1,5 +1,5 @@
 # USE REDIST!
-PyOS working only in PyCharm or Visual Studio
+PyOS working only in Python IDLE or Visual Studio
 # REDIST
 Python https://www.python.org/downloads/release/python-3140/
 PyCharm https://www.jetbrains.com/pycharm/download/?section=windows
